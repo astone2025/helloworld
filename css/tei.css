@@ -21,7 +21,8 @@ tei-lb:before {
   white-space: pre;
   content: "\A";
 }
-lg {
+
+tei-lg {
     display: block;
     margin-bottom: 1.5em;
 }
